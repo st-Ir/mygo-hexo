@@ -1,1 +1,3 @@
 # mygo-hexo
+
+hexo server

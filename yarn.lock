@@ -699,10 +699,10 @@ hexo-theme-landscape@^1.0.0:
   resolved "https://registry.npmjs.org/hexo-theme-landscape/-/hexo-theme-landscape-1.1.0.tgz"
   integrity sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==
 
-hexo-theme-reimu@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.npmjs.org/hexo-theme-reimu/-/hexo-theme-reimu-1.9.0.tgz"
-  integrity sha512-spofvuKQ7zz6VvRbxunxT+08adbGIXKVPyU7ey7Fp8JPPmPLTbXkIasRLa82lRygsj6I7N8sxms7P/qfz6ZK8w==
+hexo-theme-reimu@^1.11.1:
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/hexo-theme-reimu/-/hexo-theme-reimu-1.11.1.tgz#4598b44623f56df1d4b5874aa9799f09e01debc5"
+  integrity sha512-7h1xxmMLnC3W9WWJA+i2pSCOksgj5U8+E/NRvYURBEVrKNTuvXXBB/u66RopLk6EHglb99TrQNE1CVeG5GOLYw==
 
 hexo-util@^3.0.1, hexo-util@^3.3.0:
   version "3.3.0"
@@ -1081,11 +1081,6 @@ ms@2.1.3, ms@^2.1.3:
   version "2.1.3"
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
-
-nanoid@^3.3.7:
-  version "3.3.11"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.11.tgz#4f4f112cefbe303202f2199838128936266d185b"
-  integrity sha512-N8SpfPUnUp1bK+PMYW8qSWdl9U+wwNWI4QKxOYDy9JAro3WMX7p2OeVRF9v+347pnakNevPmiHhNmZ2HbFA76w==
 
 negotiator@~0.6.4:
   version "0.6.4"
